@@ -1,0 +1,6 @@
+*.o
+*.d
+.v*
+*.a
+minishell
+.nfs*
